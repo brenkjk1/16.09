@@ -48,7 +48,26 @@ O projeto é composto por dois arquivos principais:
 
 ## Como Usar
 
-1. **Clone o Repositório**
+### Passo 1: Clone o Repositório
    ```bash
-   git clone <https://github.com/brenkjk1/16.09>
-   ```   
+   git clone <https://github.com/brenkjk1/16.09 >
+   ```
+
+   ### Passo 2: Abrir o Arquivo HTML
+Abra o arquivo `indes.html` em seu navegador para visualizar a página.
+
+### Passo 3: Personalização
+Você pode modificar o arquivo `style.css` para personalizar a aparência da página conforme necessário.
+
+## Tecnologis Utilizadas
+- **HTML5**: Para a estrutura da página.
+- **CSS**: Para a estilização e layout.
+
+## Contribuições
+Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT.
+
+## Acesso 
+Para acessar o site visite: 
